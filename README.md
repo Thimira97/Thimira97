@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, I'm Thimira Madusanka👋
 
 <!--
 **Thimira97/Thimira97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
