@@ -1,6 +1,6 @@
-### Hello, I'm Thimira Madusanka👋
+### Hello, I'm Thimira Madusanka.👋
 ### I'm Undergraduate🎓 from Sabaragamuwa University Of Sri Lanka.
-- 🧑‍💻 I’m Student, Mobile App Developer and Web Developer!
+- 🧑‍💻 I’m Student, Mobile App Developer and Web Developer.
 - 🌱 I’m currently learning everything.
 - 😄 I love work with team.
 - 👯 I’m looking to collaborate with other developers.
@@ -33,7 +33,7 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="VS Code" height="40" width="50" style="vertical-align:top; margin:4px">
 </p>
 
-### 📫 Connect With Me: 
+### Connect With Me: 
 [<img align="left" alt="Thimira97 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="color:white;" />][linkedin]
 [<img align="left" alt="Thimira97  | StackOverFlow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/medium.svg" />][Medium]
 [<img align="left" alt="Thimira97  | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg" />][HackerRank]
