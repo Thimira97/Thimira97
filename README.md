@@ -1,6 +1,6 @@
 ### Hello, I'm Thimira Madusanka.👋
-### I'm Undergraduate🎓 from Sabaragamuwa University Of Sri Lanka.
-- 🧑‍💻 I’m Student, Mobile App Developer and Web Developer.
+### I'm Undergraduate🎓 from <a href="https://www.sab.ac.lk/" target="blank">Sabaragamuwa University Of Sri Lanka</a>.
+- 🧑‍💻 I’m Student, Mobile App Developer and Full Stack Web Developer.
 - 🌱 I’m currently learning everything.
 - 😄 I love work with team.
 - 👯 I’m looking to collaborate with other developers.
@@ -34,9 +34,9 @@
 </p>
 
 ### Connect With Me: 
-[<img align="left" alt="Thimira97 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="color:white;" />][linkedin]
-[<img align="left" alt="Thimira97  | StackOverFlow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/medium.svg" />][Medium]
-[<img align="left" alt="Thimira97  | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg" />][HackerRank]
+[<img align="left" alt="Thimira97 | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="color:white;" />][linkedin]
+[<img align="left" alt="Thimira97  | StackOverFlow" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" />][Medium]
+[<img align="left" alt="Thimira97  | HackerRank" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" />][HackerRank]
 
 </br>
 
